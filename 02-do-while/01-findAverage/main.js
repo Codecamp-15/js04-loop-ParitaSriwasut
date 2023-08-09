@@ -14,4 +14,4 @@ do {
 } while (!input === null || !isNaN(Number) || !input <= 0);
 console.log(`Count : ${count} `);
 console.log(`Sum : ${sum} `);
-console.log(`Avg : ${average} `);
+console.log(`Average : ${average} `);
