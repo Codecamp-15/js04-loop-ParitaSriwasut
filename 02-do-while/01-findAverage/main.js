@@ -4,7 +4,7 @@ let sum = 0;
 let average;
 
 do {
-  input = +prompt("Please enter any number...");
+  input = +prompt("Please enter any number , enter cancel to exit");
   if (input === null || isNaN(Number) || input <= 0) {
     count - 1;
   }
